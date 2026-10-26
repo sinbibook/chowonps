@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.26.0",
-    "generatedAt": "2026-10-26T05:49:36.359183844Z",
+    "version": "1.27.0",
+    "generatedAt": "2026-10-26T05:53:14.569847731Z",
     "templateType": "trip_b",
     "propertyId": "01a0e7e3-d47f-77f1-af99-907a9413adb8",
     "homepageId": "01a17642-6b7a-7a80-bc35-08793523f0e8"
@@ -4919,7 +4919,16 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ]
+                "images": [
+                  {
+                    "id": "01a176c5-18e9-7944-b17d-efb3887e0b24",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a17642-6b7a-7a80-bc35-08793523f0e8/directions_hero/1792993990293-kim1cu6irh.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ]
               },
               "notice": {
                 "title": "",
@@ -5076,7 +5085,16 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ]
+                "images": [
+                  {
+                    "id": "01a176c5-17c2-7a6e-aede-2a60693a2658",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a17642-6b7a-7a80-bc35-08793523f0e8/reservation_hero/1792993990298-pdmla96vsp.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ]
               },
               "about": {
                 "title": "",
@@ -5106,8 +5124,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "01a176c0-a635-7a8b-b211-33023a9f1d66",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a17642-6b7a-7a80-bc35-08793523f0e8/layout_map_hero/1792993699108-luh2cney85.jpg",
+                    "id": "01a176c5-17cb-7a8b-b486-0ec2f1485d78",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a17642-6b7a-7a80-bc35-08793523f0e8/layout_map_hero/1792993990295-81lnlvondw.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
