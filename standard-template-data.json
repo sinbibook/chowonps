@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-10-26T05:43:49.754715015Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-10-26T05:44:20.479711082Z",
     "templateType": "trip_b",
     "propertyId": "01a0e7e3-d47f-77f1-af99-907a9413adb8",
     "homepageId": "01a17642-6b7a-7a80-bc35-08793523f0e8"
@@ -5019,7 +5019,7 @@
               },
               "about": [
                 {
-                  "title": "",
+                  "title": "A Stay Close to Nature",
                   "images": [
                     {
                       "id": "01a176b9-d9a5-7bf2-a256-9f2f676bcc91",
