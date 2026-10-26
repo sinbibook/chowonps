@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-10-26T05:28:41.530233425Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-10-26T05:31:22.790261084Z",
     "templateType": "trip_b",
     "propertyId": "01a0e7e3-d47f-77f1-af99-907a9413adb8",
     "homepageId": "01a17642-6b7a-7a80-bc35-08793523f0e8"
@@ -4854,14 +4854,14 @@
                 "images": [ ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "함께 머무는 하루, 편안하게 쉬어가는 공간"
               },
               "gallery": {
                 "title": "",
                 "images": [ ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "함께 떠나, 편안히 머무는 곳"
               },
               "signature": {
                 "title": "",
