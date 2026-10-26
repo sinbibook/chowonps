@@ -127,8 +127,12 @@
   };
 
   // MAPPER: property.ybsId → [data-ybs-button] (없으면 숨김)
+  //         실시간예약 버튼의 특가 뱃지(.reser_price)도 YBS 가 있을 때만 보인다
   HeaderFooterMapper.prototype.mapYbs = function () {
     var ybsId = this.getProperty().ybsId;
+    document.querySelectorAll('.reser_price').forEach(function (el) {
+      el.style.display = ybsId ? '' : 'none';
+    });
     document.querySelectorAll('[data-ybs-button]').forEach(function (el) {
       var host = el.closest('[data-ybs-wrap]') || el.closest('.privacy') || el;
       if (!ybsId) {

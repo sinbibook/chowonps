@@ -289,6 +289,14 @@
 .main_special ul li:hover .img {transform:scale(0.9)}
 .main_special ul li span {margin-top:1.5em;font-size:20px;line-height:1.35;color:#999;font-family:var(--font-ko-sub);display:block;}
 .main_special ul li p {font-size:20px;line-height:1.45;margin:1.5em 0;}
+/* 줄바꿈 자리 (base-mapper balanceListRows) — 현재 열 수(4 / 3)에 맞는 것만 켠다. 2열(≤640)은 그대로 */
+.main_special ul li.row-break {display:none;width:100%;height:0;margin:0;}
+@media only screen and (min-width:861px) {
+	.main_special ul li.row-break-c4 {display:block;}
+}
+@media only screen and (min-width:641px) and (max-width:860px) {
+	.main_special ul li.row-break-c3 {display:block;}
+}
 
 
 @media only screen and (max-width:1450px) {
@@ -649,6 +657,8 @@
 /* view */
 .view_cate_box .sub_title:before {content:'';display:inline-block;width:1px;height:30px;background:var(--color-secondary);margin:0 auto;}
 .sub_room .view_cate_box .sub_title h3 {font-family:var(--font-ko-sub);font-weight:400;}
+/* 부대시설 상세 타이틀은 한글 시설명을 쓴다 — 객실 상세와 같은 한글 폰트 */
+.sub_special .view_cate_box .sub_title h3 {font-family:var(--font-ko-sub);font-weight:400;text-transform:none;}
 .sub_room .sub_txt_box .box .txt:before {content:"Rooms";}
 .view_cate_box .sub_cate_wrap {text-align:center;}
 .view_cate_box .sub_cate_wrap ul li a {color:var(--color-secondary);}

@@ -286,6 +286,8 @@
         li.appendChild(p);
         ul.appendChild(li);
       });
+
+      self.balanceListRows(ul);
     });
   };
 
