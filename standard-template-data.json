@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-10-26T05:53:14.569847731Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-10-26T05:54:58.705020867Z",
     "templateType": "trip_b",
     "propertyId": "01a0e7e3-d47f-77f1-af99-907a9413adb8",
     "homepageId": "01a17642-6b7a-7a80-bc35-08793523f0e8"
@@ -5178,7 +5178,10 @@
           },
           "enMain": null
         },
-        "color": null
+        "color": {
+          "primary": "#F5F5F5",
+          "secondary": "#453D37"
+        }
       },
       "property": {
         "name": "속초 초원 애견동반 펜션",
