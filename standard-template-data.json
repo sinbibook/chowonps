@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.17.0",
-    "generatedAt": "2026-10-26T05:31:22.790261084Z",
+    "version": "1.18.0",
+    "generatedAt": "2026-10-26T05:34:48.195081432Z",
     "templateType": "trip_b",
     "propertyId": "01a0e7e3-d47f-77f1-af99-907a9413adb8",
     "homepageId": "01a17642-6b7a-7a80-bc35-08793523f0e8"
@@ -4858,7 +4858,48 @@
               },
               "gallery": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a176b4-38ad-7aa1-9907-6afbee3f9740",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a17642-6b7a-7a80-bc35-08793523f0e8/index_gallery/1792992884271-kh053acdg8.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a176b4-37af-7c08-875f-0eeaac3b6a94",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a17642-6b7a-7a80-bc35-08793523f0e8/index_gallery/1792992884265-l19z5v3e5j.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a176b4-37ad-7b4c-bef6-3c6efd01a85a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a17642-6b7a-7a80-bc35-08793523f0e8/index_gallery/1792992884293-lucj2n7tdd.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a176b4-381b-7ed3-956d-adf2374d2b21",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a17642-6b7a-7a80-bc35-08793523f0e8/index_gallery/1792992884295-8udev3z30b.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a176b4-379f-7be7-b2bf-3697905230d4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a17642-6b7a-7a80-bc35-08793523f0e8/index_gallery/1792992884300-mn42jdk24p.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": "함께 떠나, 편안히 머무는 곳"
