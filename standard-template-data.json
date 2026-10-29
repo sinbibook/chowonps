@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.42.0",
-    "generatedAt": "2026-10-29T06:32:43.916928160Z",
+    "version": "1.43.0",
+    "generatedAt": "2026-10-29T06:48:11.894484760Z",
     "templateType": "trip_b",
     "propertyId": "01a0e7e3-d47f-77f1-af99-907a9413adb8",
     "homepageId": "01a17642-6b7a-7a80-bc35-08793523f0e8"
@@ -22,12 +22,12 @@
     "checkin": "14:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 14시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n체크인 마감 23:30 까지 입니다.",
-    "usageGuide": "[공지사항]\n- 무료 발레파킹 가능합니다.\n- 객실 내 육류, 튀김류, 생선류 조리를 할 수 없습니다.\n- 객실 내에서는 화재위험물질 (화약, 폭죽 등)은 사용 하실 수 없습니다.\n- 쓰레기는 지정된 장소에 분리하여 주시기 바랍니다.\n- 지정객실이 갑작스러운 컨디션 이상으로 사용불가시 같은 평형 객실로 교체하여드립니다.\n- 침구는 인원추가당 1세트씩 무료제공 해드립니다.\n\n[입퇴실안내]\n- 입실: 14시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n체크인 마감 23:30 까지 입니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n\n[공용바베큐]\n- 이용 객실: 105, 106, 201, 301, 310 제외한 전 객실\n- 이용 장소: 야외 테라스\n- 바베큐 형태: 숯+그릴+식탁보+장갑\n- 이용 시간: 18:30 ~ 23:30 \n- 이용 요금: 3인:10,000원(3인 초과 시 1인 당 5,000원 추가)(1박기준/현장결제)\n- 예약방식: 현장 예약\n- 준비 시간:10분\n- 우천 시 가능\n- 동계 시 가능\n- 강풍 시 가능\n- 직접 숯불 피우는 체험 가능(여성 고객님은 숯불 피워드립니다.)\n\n[개별바베큐]\n- 이용 객실: 105, 106, 201, 301, 310 객실\n- 이용 장소: 야외 테라스\n- 바베큐 형태: 숯+그릴+식탁보+장갑\n- 이용 시간: 18:30 ~ 23:30 \n- 이용 요금: 3인:10,000원(3인 초과 시 1인 당 5,000원 추가)(1박기준/현장결제)\n- 예약방식: 현장 예약\n- 준비 시간:10분\n- 우천 시 가능\n- 동계 시 가능\n- 강풍 시 가능\n- 직접 숯불 피우는 체험 가능(여성 고객님은 숯불 피워드립니다.)\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 무료\n- 제한 무게: 10kg 이하\n- 제한 마릿수: 2마리\n- 반려동물 허용 종류: 고양이, 강아지\n- 제한 사항: 반려동물 침대 이용 제한\n※ 반려동물 동반 시 예약 전 사전 문의 부탁드립니다.\n※ 외출 시 반려동물은 객실에 혼자 두지 마시고 반드시 동반해 주시기 바랍니다.\n※ 배변 패드 사용 및 용변 뒤처리는 견주님께서 직접 정리해 주시길 부탁드립니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n- 넷플릭스 이용: 가능\n- OTT, 디즈니+, 티빙 이용: 가능\n※ 넷플릭스, 디즈니+, 티빙 개인계정 필요함\n- 프론트 서비스: 24시간 운영\n- 설악산: 차량 6분\n- 설악워터피아: 차량 10분\n- 속초해수욕장: 차량 15분\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 주차 대수: 30대\n- 위치: 건물 뒷편\n- 전기차 충전 불가\n※ 전기차 충전기 600m 떨어진 곳에 있습니다.\n\n[교통편]\n- 대중교통: 설악산 방향 7번 버스, 7-1번 버스",
+    "usageGuide": "- 무료 발레파킹 가능합니다.\n- 객실 내 육류, 튀김류, 생선류 조리를 할 수 없습니다.\n- 객실 내에서는 화재위험물질 (화약, 폭죽 등)은 사용 하실 수 없습니다.\n- 쓰레기는 지정된 장소에 분리하여 주시기 바랍니다.\n- 지정객실이 갑작스러운 컨디션 이상으로 사용불가시 같은 평형 객실로 교체하여드립니다.\n- 침구는 인원추가당 1세트씩 무료제공 해드립니다.\n\n[입퇴실안내]\n- 입실: 14시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n체크인 마감 23:30 까지 입니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 10,000원, 아동 1인 10,000원, 유아 무료\n(1박기준/현장결제)\n\n[공용바베큐]\n- 이용 객실: 105, 106, 201, 301, 310 제외한 전 객실\n- 이용 장소: 야외 테라스\n- 바베큐 형태: 숯+그릴+식탁보+장갑\n- 이용 시간: 18:30 ~ 23:30 \n- 이용 요금: 3인:10,000원(3인 초과 시 1인 당 5,000원 추가)(1박기준/현장결제)\n- 예약방식: 현장 예약\n- 준비 시간:10분\n- 우천 시 가능\n- 동계 시 가능\n- 강풍 시 가능\n- 직접 숯불 피우는 체험 가능(여성 고객님은 숯불 피워드립니다.)\n\n[개별바베큐]\n- 이용 객실: 105, 106, 201, 301, 310 객실\n- 이용 장소: 야외 테라스\n- 바베큐 형태: 숯+그릴+식탁보+장갑\n- 이용 시간: 18:30 ~ 23:30 \n- 이용 요금: 3인:10,000원(3인 초과 시 1인 당 5,000원 추가)(1박기준/현장결제)\n- 예약방식: 현장 예약\n- 준비 시간:10분\n- 우천 시 가능\n- 동계 시 가능\n- 강풍 시 가능\n- 직접 숯불 피우는 체험 가능(여성 고객님은 숯불 피워드립니다.)\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 무료\n- 제한 무게: 10kg 이하\n- 제한 마릿수: 2마리\n- 반려동물 허용 종류: 고양이, 강아지\n- 제한 사항: 반려동물 침대 이용 제한\n※ 반려동물 동반 시 예약 전 사전 문의 부탁드립니다.\n※ 외출 시 반려동물은 객실에 혼자 두지 마시고 반드시 동반해 주시기 바랍니다.\n※ 배변 패드 사용 및 용변 뒤처리는 견주님께서 직접 정리해 주시길 부탁드립니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n- 넷플릭스 이용: 가능\n- OTT, 디즈니+, 티빙 이용: 가능\n※ 넷플릭스, 디즈니+, 티빙 개인계정 필요함\n- 프론트 서비스: 24시간 운영\n- 설악산: 차량 6분\n- 설악워터피아: 차량 10분\n- 속초해수욕장: 차량 15분\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 주차 대수: 30대\n- 위치: 건물 뒷편\n- 전기차 충전 불가\n※ 전기차 충전기 600m 떨어진 곳에 있습니다.\n\n[교통편]\n- 대중교통: 설악산 방향 7번 버스, 7-1번 버스",
     "reservationGuide": "- 무료 발레파킹 가능합니다.\n- 객실 내 육류, 튀김류, 생선류 조리를 할 수 없습니다.\n- 객실 내에서는 화재위험물질 (화약, 폭죽 등)은 사용 하실 수 없습니다.\n- 쓰레기는 지정된 장소에 분리하여 주시기 바랍니다.\n- 지정객실이 갑작스러운 컨디션 이상으로 사용불가시 같은 평형 객실로 교체하여드립니다.\n- 침구는 인원추가당 1세트씩 무료제공 해드립니다.",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "chowonps.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/13457",
     "ybsId": "",
     "tripPropertyId": "13457",
     "partnerType": "distributor_b",
@@ -313,7 +313,7 @@
           {
             "id": "01a176cc-b5a7-7b21-916d-0cd487b00095",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/26/sBh3oCeXiW7O.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -323,7 +323,7 @@
           {
             "id": "01a176cc-b5a7-7e8a-97f1-1453661452ef",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/26/XVIbGgjYSMJ8.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -331,7 +331,7 @@
           {
             "id": "01a176cc-b5a7-7f7c-87d3-225f7d60d337",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/26/DaZUS2ncWKMr.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -339,7 +339,7 @@
           {
             "id": "01a176cc-b5a7-7fbb-aa05-1eef55657146",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/26/uZGVqQzUfMDw.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -347,7 +347,7 @@
           {
             "id": "01a176cc-b5a8-705d-b823-4953d04cc176",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/26/YXpF7IK4Mbkm.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -355,7 +355,7 @@
           {
             "id": "01a176cc-b5a8-7086-9868-aac914519204",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/26/KuMNv2LlgFwD.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -363,7 +363,7 @@
           {
             "id": "01a176cc-b5a8-7127-8521-59ad38f889b8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/26/Kl4kF8Xc6dO9.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -371,7 +371,7 @@
           {
             "id": "01a176cc-b5a8-7152-b0a3-0ad7b8664b20",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/26/JjRqNdOYlrn3.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -379,7 +379,7 @@
           {
             "id": "01a176cc-b5a8-72b4-a58a-ef93b4b83354",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/26/zOlksUVi48bK.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -387,7 +387,7 @@
           {
             "id": "01a176cc-b5a8-72e5-8409-456e1ea6b215",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/26/jEPFSBWzZIck.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -395,7 +395,7 @@
           {
             "id": "01a176cc-b5a8-7381-8182-4bc63cf4ae6f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/26/w2bv91Xd5Rce.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -403,7 +403,7 @@
           {
             "id": "01a176cc-b5a8-7411-ba12-304e1f6aa064",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/26/7GI0ojJAbxFd.jpg",
-            "sortOrder": 12,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
