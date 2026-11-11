@@ -240,6 +240,11 @@
 /* main_visual */
 .visual {position:relative;z-index:1;}
 .visual .main_visual_box .visual_img {position:absolute;left:50%;top:50%;transform:translate(-50%, -50%);z-index:90;}
+/* 히어로 로고 (index.essence 이미지, index-mapper mapHeroLogo). 원본처럼 원래 크기로 두고
+   좁은 화면에서는 left:50% 박스 폭(화면 절반)까지만 줄어든다 — windmillhill title.png 450 → 375 폭에서 188.
+   위 텍스트용 width(min(72vw, 760px) / 80%)를 풀어야 원본 크기가 된다 */
+.visual .main_visual_box .visual_img.hero_logo {width:auto;}
+.visual .main_visual_box .visual_img.hero_logo img {display:block;max-width:100%;height:auto;}
 .visual .main_visual_box .swiper-container,
 .visual .main_visual_box .swiper-wrapper,
 .visual .main_visual_box .swiper-slide {height:100vh;}
@@ -762,6 +767,10 @@
 }
 @media only screen and (max-width:640px) {
 	.sub_special .visual {height:290px;}
+	/* 원본은 640 이하에서 이미지가 몇 장이든 한 줄에 한 장(.sub_img_box li width:100%)이다.
+	   위 장수별 폭 규칙이 선택자가 더 강해 2장일 때 반반으로 남던 것을 원본처럼 풀어 준다 */
+	.sub_special .sub_img_box ul[class*="special_grid_count_"] li,
+	.sub_special .sub_img_box ul.special_grid_count_3 li:nth-child(3) {width:100%;}
 }
 @media only screen and (max-width:479px) {
 }
